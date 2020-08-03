@@ -2,7 +2,7 @@
 main()
 {
 	char name[40];
-	printf("Enter your name: \n");
+	printf("Enter the name: \n");
 	scanf("%s", &name);
 int marks;
 	printf("Enter Your Marks:");
@@ -27,4 +27,5 @@ else
 {
 	printf("Grade F");
 }
+	return 0;
 } 
